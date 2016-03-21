@@ -2,4 +2,4 @@
 
 Summarizes the following paper on Weak Ties - 
 
-* Social capital, self-esteem, and use of online social network sites: A longitudinal analysis
+* Social capital, self-esteem, and use of online social network sites: A longitudinal analysis. - Charles Steinfield, Nicole B. Ellison, Cliff Lampe
